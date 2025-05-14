@@ -1,5 +1,5 @@
 x =  FileNotFoundError
 
-find all errors in a FileExistsError
+find all errors IN A FILE 
 
 
