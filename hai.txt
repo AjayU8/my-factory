@@ -1,1 +1,3 @@
 hello GIT
+
+delete the all repository
