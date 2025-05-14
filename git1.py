@@ -1,4 +1,5 @@
-in visual studio
+x =  FileNotFoundError
 
-add data repository
+find all errors
+
 
