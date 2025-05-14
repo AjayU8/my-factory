@@ -1,3 +1,4 @@
 git is version control SystemError
 
-github 
+github is a cloud platform 
+a repository hosting service 
