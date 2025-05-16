@@ -1,3 +1,4 @@
-x = fruits
+x ="fruits"
 
-i want papaya
+echo =(x)
+
